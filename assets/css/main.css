@@ -3221,7 +3221,7 @@
 
 .logoimg{
 	width: 120px;
-	height: 100px;
+	height: 100%;
 }
 
 .formulaire{
@@ -3401,4 +3401,7 @@
 		
 .responsive{
 	width:100%;
+}
+.logo{
+	height: 100%;
 }
